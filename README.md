@@ -15,7 +15,7 @@ _raw imaging files_ - cortical imaging frames are acquired using the SciMedia Mi
 
 _voltage imaging files_ - after preprocessing, imaging files are converted to voltage images using a ratiometric equalization described in Carrandini et al. 2015
 
-_raw behavioral traces and trial results_ - output from custom labview program is saved in .txt files for each session (-.txt and -tr.txt)
+_raw behavioral traces and trial results_ - output from custom labview program is saved in .txt files for each session
 
 _behavioral video files_ - data from 2 high-speed cameras acquire pupil and whisker/licking data for each session
 
